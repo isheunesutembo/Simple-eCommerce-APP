@@ -3,4 +3,4 @@
 
 Simple ecommerce app that uses riverpod for state management , for functions such as sorting by price and sorting by name
 
-<img src=""
+<img src="Screenshot (4037).png"/>
